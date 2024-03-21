@@ -1,0 +1,60 @@
+#divmain1{
+    display: flex;
+    justify-content:end;
+    font-family: "Roboto Slab", serif;
+    
+}div>a{
+    margin-left: 10px;
+    text-decoration: none;
+}
+#divmain1>span{
+    display: flex;
+    margin-left: 10px;
+}
+#divmain2{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: "Nunito Sans", sans-serif;
+    margin-left: 150px;
+}
+#divmain3{
+justify-content: space-evenly;
+}
+#divmain3>h3{
+    rotate: -90deg;
+    margin-top: 120px;
+    margin-left: 200px;
+
+}
+#divmain3{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin-right:0px;
+    
+     
+}
+#divmain31>h1{
+    text-align: center;
+}
+#divmain31>p{
+    text-align: center;
+}
+#divmain32>h1{
+    text-align: center;
+}
+#divmain32>p{
+    text-align: center;
+}
+#divmain33>h1{
+    text-align: center;
+}
+#divmain33>p{
+    text-align: center;
+}
+#div34{
+    height: 80px;
+    width: 80px;
+    border-radius: 50px;
+    margin-top: 150px;
+}
